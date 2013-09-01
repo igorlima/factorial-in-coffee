@@ -1,3 +1,7 @@
+<a href="https://api.travis-ci.org/igorlima/factorial-in-coffee">
+  <img src="https://api.travis-ci.org/igorlima/factorial-in-coffee.png" alt="Travis CI badge" />
+</a>
+
 # Factorial in Coffee Script
 
 A sample function to calc the factorial of a number. It has only a number as parameter.
