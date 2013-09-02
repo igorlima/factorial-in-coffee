@@ -1,4 +1,4 @@
-<a href="https://api.travis-ci.org/igorlima/factorial-in-coffee">
+<a href="https://travis-ci.org/igorlima/factorial-in-coffee">
   <img src="https://api.travis-ci.org/igorlima/factorial-in-coffee.png" alt="Travis CI badge" />
 </a>
 
