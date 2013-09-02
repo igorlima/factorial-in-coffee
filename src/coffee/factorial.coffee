@@ -1,4 +1,5 @@
 Fact = @Factorial = class
+
 	@iterative: (number) ->
     if number is 0 then 1
     else if number < 0 then NaN
@@ -6,3 +7,8 @@ Fact = @Factorial = class
       fact = 1
       fact *= n for n in [number..1] if number > 0
       fact
+
+  @recursive: (number) =>
+    if number is 0 then 1
+    else if number < 0 then NaN
+    else number * @recursive number - 1
